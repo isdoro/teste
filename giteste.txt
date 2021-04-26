@@ -1,0 +1,15 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Cursos da Alura</title>
+-</head>
+-<body>
+-    <ul>
+-        <li>opa</li>
+-        <li>Docker</li>
+-        <li>Ansible</li>
+-        <li>IntegraÃ§Ã£o</li>
+-    </ul>
+-</body>
+-</html>
