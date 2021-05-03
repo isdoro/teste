@@ -6,11 +6,11 @@
 -</head>
 -<body>
 -    <ul>
--        <li>opa</li>
+-        <li>Formação Internet das Coisas</li>
 -        <li>Docker: criando containers sem dor de cabeça</li>
--        <li>Ansible</li>
--        <li>Integração Contínua</li>
-	 <li>IKubernets</li>
+-        <li>Ansible: sua infraestrutura no código</li>
+-        <li>Curso Jenkins: integração contínua</li>
+	 <li>Formação Phyton para Data Science</li>
 -    </ul>
 -</body>
 -</html>
