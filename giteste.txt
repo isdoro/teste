@@ -2,7 +2,7 @@
 -<html lang="en">
 -<head>
 
--    <h2>Lista de cursos</h2>
+-    <h2>Lista de todos os cursos</h2>
 
 -</head>
 
