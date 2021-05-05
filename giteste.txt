@@ -2,7 +2,7 @@
 -<html lang="en">
 -<head>
 -    <meta charset="UTF-8">
--    <h2>Lista de cursos DevOps da Alura: Aprenda com a gente</h2>
+-    <h2>Lista de cursos DevOps</h2>
 -</head>
 -<body>
 
