@@ -2,7 +2,7 @@
 -<html lang="en">
 -<head>
 -    <meta charset="UTF-8">
--    <h2>Lista de cursos Alura</h2>
+-    <h2>Lista de cursos</h2>
 -</head>
 -<body>
 
